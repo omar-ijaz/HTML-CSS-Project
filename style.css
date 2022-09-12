@@ -1,0 +1,162 @@
+
+body {margin: 0%; padding: 0%;}
+
+.header-section {
+    background-color: #1f2937;
+    width: 100%;
+    height: 700px;
+    
+    
+}
+
+.header-logo {
+    font-size: 25px;
+    color: #f9faf8;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+li {
+    color: #e5e7eb;
+    font-family: Helvetica, sans-serif;
+    list-style: none;
+    font-size: 20px
+}
+
+.main-hero-text {
+    font-size: 52px;
+    color: #f9faf8;
+    font-weight: 1000;
+    font-weight: bolder;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.secondary-hero-text {
+    font-size: 28px;
+    color: #e5e7eb;
+    
+}
+
+.button {
+    color: #f9faf8;
+    background-color: #316df0;
+    max-width:fit-content;
+    padding: 8px 20px 8px 20px;
+    font-size: 23px;
+    font-weight: bold;
+    border-radius: 9px;
+}
+
+
+
+.sub-header-picture {
+    max-width: 20%;
+    height: auto;
+    font-weight: bold;
+    border-radius: 9px;
+}
+
+.information-section {
+    background-color: white;
+}
+
+
+.information-header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
+}
+
+.text {
+    font-size: 25px;
+    color: #1f2937
+}
+
+
+
+.image-one {
+    max-width: 12%;
+    height: auto;
+    border-radius: 9px;
+}
+
+
+.image-two {
+    max-width: 9%;
+    height: auto;
+    border-radius: 9px;
+}
+
+
+.image-three {
+    max-width: 8%;
+    height: auto;
+    border-radius: 9px;
+}
+
+
+.image-four {
+    max-width: 5%;
+    height: auto;
+    border-radius: 9px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    width: auto;
+    height: 400px;
+}
+
+p {
+    font-size: 36px;
+    font-style: oblique;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.author {
+    font-size: 28px;
+    color: #1f2937;
+    font-weight: bold;
+}
+
+.footer-section {
+    background-color: white;
+    
+    
+}
+
+
+.call-to-action {
+    background-color: #316df0;
+    border-radius: 9px;
+    width: fit-content;
+    padding: 30px;
+    height: 100%;
+} 
+
+
+
+.call-one {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+.call-two {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.button-two {
+    font-size: 23px;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    border: 4px white;
+
+}
+
+
